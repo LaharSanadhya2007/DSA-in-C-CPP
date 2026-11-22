@@ -1,3 +1,5 @@
 *.exe
 *.o
 *.out
+.vscode/
+02_sorting/bubble
